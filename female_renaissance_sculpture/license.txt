@@ -1,0 +1,11 @@
+Model Information:
+* title:	Female Renaissance Sculpture
+* source:	https://sketchfab.com/3d-models/female-renaissance-sculpture-7f62c045ef86444188bc863b8ae5a772
+* author:	kand8998 (https://sketchfab.com/KaitlynAndrus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Female Renaissance Sculpture" (https://sketchfab.com/3d-models/female-renaissance-sculpture-7f62c045ef86444188bc863b8ae5a772) by kand8998 (https://sketchfab.com/KaitlynAndrus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
